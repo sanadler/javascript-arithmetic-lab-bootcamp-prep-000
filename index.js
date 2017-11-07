@@ -23,5 +23,5 @@ function dec(n){
 }
 
 function makeInt(n){
-  console.log(parseInt('2.2222', 10));
+  parseInt(n, 10));
 }
