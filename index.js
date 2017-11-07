@@ -13,3 +13,15 @@ function multiply(a,b){
 function divide(a,b){
   return a / b;
 }
+
+function inc(n){
+  return n++;
+}
+
+function dec(n){
+  return n--;
+}
+
+function makeInt(n){
+  console.log(parseInt('2.2222', 10));
+}
